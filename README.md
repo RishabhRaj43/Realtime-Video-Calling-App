@@ -1,5 +1,11 @@
 # Video Calling App Made using MERN Stack
 
-------------------------
-> **_Note_**  : Currently under Development
-----------------------------
+A Video Calling app made using MERN Stack.
+
+## Libraries Used
+
+- ***WebRTC*** for realtime communications
+
+
+---------------------------------------------------
+# _HAPPY CODING_ 🤖🤖
